@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.unravel2023.intellijplateformplugintemplate
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
